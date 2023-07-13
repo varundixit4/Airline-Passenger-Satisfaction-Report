@@ -35,6 +35,6 @@
 
 <h2>Dashboard</h2>
 <p>The Dashboard was made using PowerBI, all demographics and satisfaction features were considered in the dashboard. This Power BI dashboard provides a comprehensive analysis of airline passenger satisfaction using the available demographic and satisfaction features. The dashboard allows users to explore various factors that contribute to passenger satisfaction and gain insights into the overall customer experience.</p>
-
+<img src='airline.PNG'>
 <h4><a href='./Airline Satisfaction Dashboard.pdf'>View the pdf file of the dashboard here.</a><h4>
 <h4><a href='./Airline Satisfaction Dashboard.pbix'>Download the pbix file of the dashboard here.</a><h4>
